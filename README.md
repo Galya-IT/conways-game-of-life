@@ -2,7 +2,7 @@
 Android app inspired by Conway's cellular automaton known as Game of Life
 [Game Of Life at Wikipedia!](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-Project build on Android Studio
+Project files for Android Studio
 
 Screen at the beginning:
 ![alt tag](https://raw.github.com/Galya-IT/conways-game-of-life/master/screens/01-start.png)
