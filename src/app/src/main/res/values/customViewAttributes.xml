@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <declare-styleable name="GridContainerView">
+         <attr name="rows" format="integer" />
+         <attr name="cols" format="integer" />
+         <attr name="cellBorderWidth" format="dimension" />
+         <attr name="cellBorderColor" format="color" />
+         <attr name="aliveCellColor" format="color" />
+         <attr name="deadCellColor" format="color" />
+     </declare-styleable>-->
+ </resources>

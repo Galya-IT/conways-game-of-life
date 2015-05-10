@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".GameActivity" >
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/start_stop_button"
+        android:title="@string/start_game"
+        android:orderInCategory="50"
+        android:showAsAction="always" />
+</menu>
+<!-- From: file:/I:/SirmaGit/proj_intern_galyabogdanova/Conway'sGameofLife/app/src/main/res/menu/game.xml -->

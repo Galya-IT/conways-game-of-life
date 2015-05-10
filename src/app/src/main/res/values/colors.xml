@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_marine">#ff00a3cc</string>
+    <string name="color_black">#000000</string>
+    <string name="color_gray">#cccccc</string>
+</resources>
